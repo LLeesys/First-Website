@@ -4,6 +4,7 @@
 
  This mark down file will also serve as a place to practice my markdown syntax
 
+
  # A first-level heading
  ## A second-level heading
  ### A third-level heading
@@ -17,4 +18,3 @@
  To make text appear as code we use `back ticks` and it will change the appearance of the contained words
 
  ```triple backticks creates a block of code```
- 
